@@ -1,0 +1,148 @@
+question,label
+What are some good restaurants near me that are affordable?,restaurant
+Where can I find cheap restaurants in the downtown area?,restaurant
+What are the best restaurants for a budget-friendly meal near the beach?,restaurant
+Can you recommend any restaurants with a view that won't break the bank?,restaurant
+What are some good restaurants in the city center that are reasonably priced?,restaurant
+Where can I find a good brunch spot in the suburbs that won't cost a fortune?,restaurant
+What are some of the best local restaurants that are reasonably priced?,restaurant
+Are there any restaurants in the area that offer a discount for students?,restaurant
+What are some good restaurants for a quick lunch in the business district?,restaurant
+Can you recommend any restaurants in the area that offer a happy hour menu?,restaurant
+What are some good restaurants for a date night that are not too expensive?,restaurant
+Where can I find the best sushi restaurant that won't break the bank?,restaurant
+Are there any restaurants that offer a special deal on Wednesdays?,restaurant
+What are some good restaurants for a family dinner that are reasonably priced?,restaurant
+Where can I find a good Italian restaurant in the city center?,restaurant
+What are some good restaurants near the airport that are affordable?,restaurant
+Are there any restaurants in the area that offer a prix fixe menu?,restaurant
+What are some good restaurants for a romantic dinner that are reasonably priced?,restaurant
+Where can I find a good steakhouse that won't cost a fortune?,restaurant
+Can you recommend any restaurants with outdoor seating that are reasonably priced?,restaurant
+What are some good restaurants for a group dinner that won't break the bank?,restaurant
+Are there any restaurants in the area that offer a lunch buffet?,restaurant
+What are some good restaurants for a vegan meal that are affordable?,restaurant
+Where can I find a good seafood restaurant that won't break the bank?,restaurant
+What are some good restaurants for a birthday celebration that are reasonably priced?,restaurant
+Can you recommend any restaurants with live music that are reasonably priced?,restaurant
+What are some good restaurants near the convention center that are affordable?,restaurant
+Are there any restaurants in the area that offer a tasting menu?,restaurant
+What are some good restaurants for a business lunch that are reasonably priced?,restaurant
+Where can I find a good Chinese restaurant in the city center?,restaurant
+What are some good restaurants for a Sunday brunch that won't break the bank?,restaurant
+Can you recommend any restaurants with a private dining room that are reasonably priced?,restaurant
+What are some good restaurants near the train station that are affordable?,restaurant
+Are there any restaurants in the area that offer a BYOB option?,restaurant
+What are some good restaurants for a Mexican meal that are reasonably priced?,restaurant
+Where can I find a good Thai restaurant that won't cost a fortune?,restaurant
+What are some good restaurants for a pre-theater dinner that are affordable?,restaurant
+Can you recommend any restaurants with a fireplace that are reasonably priced?,restaurant
+What are some good restaurants for a girls' night out that won't break the bank?,restaurant
+Are there any restaurants in the area that offer a catering service?,restaurant
+What are some good restaurants for a group brunch that are reasonably priced?,restaurant
+Where can I find a good Korean restaurant in the city center?,restaurant
+What are some good restaurants for a quick bite that are affordable?,restaurant
+Can you recommend any restaurants with a rooftop bar that are reasonably priced?,restaurant
+What are some good restaurants near the stadium that are affordable?,restaurant
+Are there any restaurants in the area that offer a dessert-only menu?,restaurant
+What are some good restaurants for a romantic brunch that won't break the bank?,restaurant
+What's the weather like today?,weather
+Will it rain today?,weather
+Is it going to be sunny tomorrow?,weather
+What's the forecast for this weekend?,weather
+How hot will it be today?,weather
+Is it going to be cold tonight?,weather
+What's the chance of precipitation tomorrow?,weather
+What's the temperature in Celsius/Fahrenheit?,weather
+How humid will it be tomorrow?,weather
+What's the wind speed for today?,weather
+Is there any chance of a thunderstorm today?,weather
+What's the UV index for today?,weather
+What's the weather like in [city name] right now?,weather
+What's the weather like in [country name] this week?,weather
+Will there be any snow tomorrow?,weather
+Is it safe to go outside today?,weather
+What's the chance of fog tomorrow?,weather
+Is there a heat advisory for today?,weather
+What's the visibility for today?,weather
+What's the air quality like today?,weather
+What's the pollen count today?,weather
+What's the dew point for today?,weather
+Is there a tornado warning for today?,weather
+What's the weather forecast for next week?,weather
+What's the temperature range for today?,weather
+Will it be cloudy today?,weather
+What's the chance of a hurricane hitting [city name]?,weather
+What's the chance of a snowstorm today?,weather
+What's the weather like in [city name] during winter?,weather
+What's the weather like in [city name] during summer?,weather
+What's the weather like in [city name] during spring?,weather
+What's the weather like in [city name] during fall?,weather
+What's the wind chill for today?,weather
+What's the weather like in [city name] this month?,weather
+What's the chance of a hailstorm tomorrow?,weather
+Is there a high pollen alert today?,weather
+What's the chance of a tornado hitting [city name] this week?,weather
+What's the weather like in [city name] next week?,weather
+What's the air pressure for today?,weather
+What's the chance of a blizzard hitting [city name] today?,weather
+What's the chance of a thunderstorm tomorrow?,weather
+Is it going to be humid today?,weather
+What's the chance of a dust storm today?,weather
+What's the weather like in [city name] during monsoon season?,weather
+What's the weather like in [city name] during hurricane season?,weather
+What's the weather like in [city name] during tornado season?,weather
+What's the weather like in [city name] during wildfire season?,weather
+What's the chance of a tornado hitting [city name] today?,weather
+What's the chance of a hurricane hitting [city name] this month?,weather
+What's the chance of a tornado hitting [city name] this year?,weather
+What's the chance of a flood in [city name] this week?,weather
+What's the chance of a snowstorm in [city name] this month?,weather
+What's the chance of a heatwave in [city name] this week?,weather
+What's the chance of a hailstorm in [city name] this year?,weather
+What's the chance of a hurricane in [city name] this year?,weather
+What's the chance of a thunderstorm in [city name] this month?,weather
+What's the chance of a tornado in [city name] this month?,weather
+What's the chance of a dust storm in [city name] this year?,weather
+Can you tell me which tram/bus goes to the Empire State Building?,transport
+What's the fastest way to get to Central Park by tram/bus?,transport
+Is there a direct tram/bus to the Statue of Liberty?,transport
+How do I get to the Metropolitan Museum of Art by tram/bus?,transport
+Can you recommend a tram/bus route to Times Square?,transport
+Which tram/bus do I take to get to the Brooklyn Bridge?,transport
+Is there a tram/bus that goes to the New York Stock Exchange?,transport
+What's the best tram/bus route to get to the World Trade Center?,transport
+Can you help me find the nearest tram/bus to the Empire State Building?,transport
+Which tram/bus should I take to get to the Brooklyn Botanic Garden?,transport
+How do I get to the Bronx Zoo by tram/bus?,transport
+Is there a direct tram/bus to the American Museum of Natural History?,transport
+Can you tell me which tram/bus to take to get to the Brooklyn Museum?,transport
+What's the quickest way to get to the United Nations by tram/bus?,transport
+Is there a tram/bus that goes to the High Line?,transport
+How do I get to the 9/11 Memorial and Museum by tram/bus?,transport
+Can you recommend a tram/bus route to the New York Botanical Garden?,transport
+Which tram/bus should I take to get to the Prospect Park Zoo?,transport
+Is there a direct tram/bus to the Guggenheim Museum?,transport
+What's the best tram/bus route to get to the Brooklyn Academy of Music?,transport
+How do I get to the Barclays Center by tram/bus?,transport
+Can you tell me which tram/bus to take to get to the Brooklyn Navy Yard?,transport
+Which tram/bus do I take to get to the Green-Wood Cemetery?,transport
+What's the quickest way to get to Coney Island by tram/bus?,transport
+Is there a tram/bus that goes to the New York Aquarium?,transport
+How do I get to the Brooklyn Heights Promenade by tram/bus?,transport
+Can you recommend a tram/bus route to the New York Hall of Science?,transport
+Which tram/bus should I take to get to the Snug Harbor Cultural Center?,transport
+Is there a direct tram/bus to the Brooklyn Children's Museum?,transport
+What's the best tram/bus route to get to the Brooklyn Public Library?,transport
+How do I get to the Brooklyn Bridge Park by tram/bus?,transport
+Can you tell me which tram/bus to take to get to the Jamaica Bay Wildlife Refuge?,transport
+Which tram/bus do I take to get to the City Island Museum?,transport
+What's the quickest way to get to the Cloisters by tram/bus?,transport
+Is there a tram/bus that goes to the New York Transit Museum?,transport
+How do I get to the Intrepid Sea,transport
+Can you recommend a tram/bus route to the Federal Hall National Memorial?,transport
+Which tram/bus should I take to get to the Fraunces Tavern Museum?,transport
+Is there a direct tram/bus to the Museum of the Moving Image?,transport
+What's the best tram/bus route to get to the Queens Botanical Garden?,transport
+How do I get to the Queens Museum by tram/bus?,transport
+Can you tell me which tram/bus to take to get to the Louis Armstrong House Museum?,transport
